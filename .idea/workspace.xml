@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="181a5f34-a39f-4c5b-a4d0-d2f8176c7abe" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Array/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/TEST.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redTime/array/aw_snap.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redTime/exam.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Array/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Array/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Array/caroSimple.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Array/daoPhanTu.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Array/swapArray.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Array/dictionnarySimplefromSol.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Array/tuDien_donGian.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Array/hello.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Array/hello.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Array/suDungHamCoSanTrongMang.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Array/toString&amp;&amp;Join_toArray.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Array/thaoTacVoiMang.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Array/Add&amp;Display.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Array/upperCase.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Array/upperCase&amp;&amp;LowerCase.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BT-Meo-Bat-Chuot/BT-Meo-Bat-Chuot" beforeDir="false" afterPath="$PROJECT_DIR$/../BT-Meo-Bat-Chuot/BT-Meo-Bat-Chuot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TypeScriptSpaceShooter-master/.idea/TypeScriptSpaceShooter-master.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TypeScriptSpaceShooter-master/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TypeScriptSpaceShooter-master/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TypeScriptSpaceShooter-master/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TypeScriptSpaceShooter-master/TypeScriptSpaceShooter-master/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TypeScriptSpaceShooter-master/TypeScriptSpaceShooter-master/Asteroid.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TypeScriptSpaceShooter-master/TypeScriptSpaceShooter-master/Asteroid.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TypeScriptSpaceShooter-master/TypeScriptSpaceShooter-master/Asteroid.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TypeScriptSpaceShooter-master/TypeScriptSpaceShooter-master/Collision.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TypeScriptSpaceShooter-master/TypeScriptSpaceShooter-master/Collision.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TypeScriptSpaceShooter-master/TypeScriptSpaceShooter-master/Collision.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TypeScriptSpaceShooter-master/TypeScriptSpaceShooter-master/Enemy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TypeScriptSpaceShooter-master/TypeScriptSpaceShooter-master/Enemy.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TypeScriptSpaceShooter-master/TypeScriptSpaceShooter-master/Enemy.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TypeScriptSpaceShooter-master/TypeScriptSpaceShooter-master/EnemyFactory.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TypeScriptSpaceShooter-master/TypeScriptSpaceShooter-master/EnemyFactory.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TypeScriptSpaceShooter-master/TypeScriptSpaceShooter-master/EnemyFactory.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TypeScriptSpaceShooter-master/TypeScriptSpaceShooter-master/Interfaces.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TypeScriptSpaceShooter-master/TypeScriptSpaceShooter-master/Interfaces.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TypeScriptSpaceShooter-master/TypeScriptSpaceShooter-master/Interfaces.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TypeScriptSpaceShooter-master/TypeScriptSpaceShooter-master/Player.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TypeScriptSpaceShooter-master/TypeScriptSpaceShooter-master/Player.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TypeScriptSpaceShooter-master/TypeScriptSpaceShooter-master/Player.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TypeScriptSpaceShooter-master/TypeScriptSpaceShooter-master/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TypeScriptSpaceShooter-master/TypeScriptSpaceShooter-master/app.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TypeScriptSpaceShooter-master/TypeScriptSpaceShooter-master/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TypeScriptSpaceShooter-master/TypeScriptSpaceShooter-master/app.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TypeScriptSpaceShooter-master/TypeScriptSpaceShooter-master/app.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TypeScriptSpaceShooter-master/TypeScriptSpaceShooter-master/index.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TypeScriptSpaceShooter-master/TypeScriptSpaceShooter-master/sprites/asteroid.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TypeScriptSpaceShooter-master/TypeScriptSpaceShooter-master/sprites/background.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TypeScriptSpaceShooter-master/TypeScriptSpaceShooter-master/sprites/explode_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TypeScriptSpaceShooter-master/TypeScriptSpaceShooter-master/sprites/explode_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TypeScriptSpaceShooter-master/TypeScriptSpaceShooter-master/sprites/explode_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TypeScriptSpaceShooter-master/TypeScriptSpaceShooter-master/sprites/explode_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TypeScriptSpaceShooter-master/TypeScriptSpaceShooter-master/sprites/explode_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TypeScriptSpaceShooter-master/TypeScriptSpaceShooter-master/sprites/explode_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TypeScriptSpaceShooter-master/TypeScriptSpaceShooter-master/sprites/explode_6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TypeScriptSpaceShooter-master/TypeScriptSpaceShooter-master/sprites/explode_7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TypeScriptSpaceShooter-master/TypeScriptSpaceShooter-master/sprites/explode_8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TypeScriptSpaceShooter-master/TypeScriptSpaceShooter-master/sprites/explode_9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TypeScriptSpaceShooter-master/TypeScriptSpaceShooter-master/sprites/rocket.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TypeScriptSpaceShooter-master/TypeScriptSpaceShooter-master/sprites/spaceship.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../function" beforeDir="false" afterPath="$PROJECT_DIR$/../function" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../module1/session3" beforeDir="false" afterPath="$PROJECT_DIR$/../module1/session3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../module1/session4" beforeDir="false" afterPath="$PROJECT_DIR$/../module1/session4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../objects-master" beforeDir="false" afterPath="$PROJECT_DIR$/../objects-master" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redTime/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../redTime/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redTime/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../redTime/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redTime/Loop" beforeDir="false" afterPath="$PROJECT_DIR$/../redTime/Loop" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seesion_7" beforeDir="false" afterPath="$PROJECT_DIR$/../seesion_7" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session10/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../session10/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session8" beforeDir="false" afterPath="$PROJECT_DIR$/../session8" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session_9" beforeDir="false" afterPath="$PROJECT_DIR$/../session_9" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student-manager-demo-master/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student-manager-demo-master/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student-manager-demo-master/.idea/student-manager-demo-master.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student-manager-demo-master/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student-manager-demo-master/student-manager-demo-master/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student-manager-demo-master/student-manager-demo-master/class/Student.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student-manager-demo-master/student-manager-demo-master/class/StudentDB.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student-manager-demo-master/student-manager-demo-master/db/DBConnect.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student-manager-demo-master/student-manager-demo-master/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student-manager-demo-master/student-manager-demo-master/view/create.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student-manager-demo-master/student-manager-demo-master/view/delete.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student-manager-demo-master/student-manager-demo-master/view/list.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student-manager-demo-master/student-manager-demo-master/view/update.php" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bai1.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="25" column="21" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/bai2.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bai3.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="21" column="13" lean-forward="true" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bai4.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="646">
+              <caret line="38" column="4" lean-forward="true" selection-start-line="38" selection-start-column="4" selection-end-line="38" selection-end-column="4" />
+              <folding>
+                <element signature="n#style#0;n#canvas#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/bai1.html" />
+        <option value="$PROJECT_DIR$/bai3.html" />
+        <option value="$PROJECT_DIR$/bai4.html" />
+        <option value="$PROJECT_DIR$/bai2.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="131" />
+    <option name="width" value="1038" />
+    <option name="height" value="702" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="TEST" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TEST" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="181a5f34-a39f-4c5b-a4d0-d2f8176c7abe" name="Default Changelist" comment="" />
+      <created>1557110508639</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557110508639</updated>
+      <workItem from="1557110509961" duration="5807000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="5807000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1376" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24962631" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/bai4.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="38" column="4" lean-forward="true" selection-start-line="38" selection-start-column="4" selection-end-line="38" selection-end-column="4" />
+          <folding>
+            <element signature="n#style#0;n#canvas#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bai3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="21" column="13" lean-forward="true" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bai1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="21" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bai2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

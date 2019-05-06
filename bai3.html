@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    function isPrime(number) {
+        if(number <2){
+            return false;
+        }
+        if(number === 2){
+            return true;
+        }
+        if(number > 2){
+            for(let i = 3;i < number;i++){
+                if((number%i) === 0){
+                    return  false;
+                }
+                return true;
+            }
+        }
+    }
+    let kq1  = isPrime(12);
+    let kq2 = isPrime(17);
+    console.log(kq1);
+    console.log(kq2);
+</script>
+</body>
+</html>

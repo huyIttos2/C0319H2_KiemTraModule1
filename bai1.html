@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    function findMinScore(arr) {
+        let minArray = arr[0];
+        for(let i = 0;i < arr.length;i++){
+            if(minArray > arr[i]){
+                minArray = arr[i];
+            }
+        }
+        return minArray;
+    }
+    let arr1 = [10,5,2,8,-1,6,8];
+    let arr2 = [2,4,0,5,1];
+    let arr3 = [8,6,2,6,1,1,4];
+    let kq1 = findMinScore(arr1);
+    let kq2 = findMinScore(arr2);
+    let kq3 = findMinScore(arr3);
+    console.log(kq1);
+    console.log(kq2);
+    console.log(kq3);
+</script>
+</body>
+</html>
